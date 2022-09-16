@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\bin\Debug\Bilgi Yarışması uygulaması.exe.config
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\bin\Debug\Bilgi Yarışması uygulaması.exe
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\bin\Debug\Bilgi Yarışması uygulaması.pdb
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\obj\Debug\Bilgi Yarışması uygulaması.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\obj\Debug\Bilgi Yarışması uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\obj\Debug\Bilgi Yarışması uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\obj\Debug\Bilgi Yarışması uygulaması.exe
+C:\Users\LENOVO\source\repos\Bilgi Yarışması uygulaması\Bilgi Yarışması uygulaması\obj\Debug\Bilgi Yarışması uygulaması.pdb
